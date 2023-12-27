@@ -1,0 +1,9 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",1206,2,100n,
+J1,USB_A_Molex_67643_Horizontal,1,Keyboard In,
+J2,PinHeader_1x03_P2.54mm_Vertical,1,Debug2,
+J3,PinHeader_1x03_P2.54mm_Vertical,1,Debug1,
+J4,USB_A_Molex_67643_Horizontal,1,Mouse In,
+U1,RPi_Pico_SMD_TH,1,Pico Primary,
+U2,RPi_Pico_SMD_TH,1,Pico Secondary,
+U4,SOIC-8_3.9x4.9mm_P1.27mm,1,ADuM1201BR,
